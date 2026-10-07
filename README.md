@@ -1,4 +1,4 @@
-<!-- Reemplaza TU_USUARIO por tu usuario de GitHub -->
+<!-- Reemplaza albrtwors por tu usuario de GitHub -->
 
 <div align="center">
 
@@ -10,8 +10,8 @@
 
 <br/>
 
-![Visitas](https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitas&color=00ff9c&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/TU_USUARIO?style=for-the-badge&logo=github&color=0d1117&labelColor=00ff9c&logoColor=0d1117)
+![Visitas](https://komarev.com/ghpvc/?username=albrtwors&label=Visitas&color=00ff9c&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/albrtwors?style=for-the-badge&logo=github&color=0d1117&labelColor=00ff9c&logoColor=0d1117)
 
 </div>
 
@@ -77,12 +77,12 @@ Me apasiona crear soluciones que **escalen**, sean **fáciles de mantener** y es
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9" alt="top langs" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=albrtwors&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albrtwors&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9" alt="top langs" />
 
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=dark&hide_border=true&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=albrtwors&theme=dark&hide_border=true&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c" alt="streak" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=darkhub&no-frame=true&row=1&column=6" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=albrtwors&theme=darkhub&no-frame=true&row=1&column=6" alt="trophies" />
 
 </div>
 
@@ -92,8 +92,8 @@ Me apasiona crear soluciones que **escalen**, sean **fáciles de mantener** y es
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff9c)](https://github.com/TU_USUARIO)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c)](https://linkedin.com/in/TU_USUARIO)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff9c)](https://github.com/albrtwors)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c)](https://linkedin.com/in/albrtwors)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9c)](mailto:TU_CORREO@ejemplo.com)
 
 <br/>
